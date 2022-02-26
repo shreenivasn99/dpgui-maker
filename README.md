@@ -9,3 +9,9 @@ GUI app using DearPyGui to make GUI apps in DearPyGui
 
 ## Note
 Some widgets need extra necessary parameters (example- add_line_series). Program will crash if they are not supplied with.
+This is intended for live visualisation and faster generation of code.
+This is not a fullfledged app.
+
+
+## Development
+I'm doing this as a hobby. I'm not part of DPG team.
